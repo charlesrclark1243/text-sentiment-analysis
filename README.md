@@ -11,6 +11,8 @@ Text messages are not always the easiest to understand, as the recipient of a te
 
 The user can type the text message they're having difficulty understanding into the green message bubble (just remember to delete the default text first), and when they click the "send" button, the app's "response" will appear in a grey bubble below the "sent message." The app's "response" will indicate whether or not the text message has a positive or negative connotation by considering which of the two choices has the highest probability; these probabilities are also included in the response to provide the user with a transparent idea of how sure the model is.
 
+The application can be found at [https://charlesrclark1243.github.io/text-sentiment-analysis/](https://charlesrclark1243.github.io/text-sentiment-analysis/).
+
 ## How it Works
 
 This app is split into a dual-repo structure: one repo is for the React frontend and also hosts the application site, while the other repo is for the Python/Flask backend.
