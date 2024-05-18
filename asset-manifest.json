@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/text-sentiment-analysis/static/css/main.e5e69702.css",
+    "main.js": "/text-sentiment-analysis/static/js/main.68f59e1f.js",
+    "static/js/453.0b4b723c.chunk.js": "/text-sentiment-analysis/static/js/453.0b4b723c.chunk.js",
+    "index.html": "/text-sentiment-analysis/index.html",
+    "main.e5e69702.css.map": "/text-sentiment-analysis/static/css/main.e5e69702.css.map",
+    "main.68f59e1f.js.map": "/text-sentiment-analysis/static/js/main.68f59e1f.js.map",
+    "453.0b4b723c.chunk.js.map": "/text-sentiment-analysis/static/js/453.0b4b723c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e5e69702.css",
+    "static/js/main.68f59e1f.js"
+  ]
+}
