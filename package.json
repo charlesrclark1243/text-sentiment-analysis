@@ -1,6 +1,7 @@
 {
   "name": "text-sentiment-analysis",
   "version": "0.1.0",
+  "homepage": "https://charlesrclark1243.github.io/text-sentiment-analysis",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
